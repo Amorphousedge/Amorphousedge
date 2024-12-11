@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amorphousedge
 - 👀 I’m interested in Quantum Computing
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning computer programming 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me uleasher881@gmail.com
 - 😄 Pronouns: He
